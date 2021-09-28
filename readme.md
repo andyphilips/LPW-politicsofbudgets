@@ -1,1 +1,1 @@
-Website for "The Politics of Budgets: Getting a Piece of the Pie", by Christine S. Lipsmeyer, Andrew Q. Philips, and Guy D. Whitten. Cambridge University Press
+Website for "The Politics of Budgets: Getting a Piece of the Pie", by Christine S. Lipsmeyer, Andrew Q. Philips, and Guy D. Whitten. Cambridge University Press: https://andyphilips.github.io/LPW-politicsofbudgets/
