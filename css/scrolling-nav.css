@@ -9,8 +9,7 @@ header {
 }
 
 .bg-primary {
-	background-color: #e6664a !important;
-	/*color: #FB5936;*/
+	background-color: #4C31C3 !important;
 }
 
 @media (min-width: 992px) {
@@ -24,11 +23,11 @@ section {
 }
 
 .bg-blue {
-	background-color: #4a6ce6 !important;
+	background-color: #130C30 !important;
 }
 
 .bg-light {
-	background-color: #cbcbcb !important;
+	background-color: #F3EBCF !important;
 }
 
 pre code {      /* for inline code */
